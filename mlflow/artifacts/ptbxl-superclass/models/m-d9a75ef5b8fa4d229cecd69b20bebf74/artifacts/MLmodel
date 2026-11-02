@@ -1,0 +1,22 @@
+artifact_path: mlflow/artifacts/ptbxl-superclass/models/m-d9a75ef5b8fa4d229cecd69b20bebf74/artifacts
+flavors:
+  pytorch:
+    code: null
+    model_data: data
+    pytorch_version: 2.13.0+cu130
+is_signature_from_type_hint: false
+mlflow_version: 3.16.0
+model_id: m-d9a75ef5b8fa4d229cecd69b20bebf74
+model_size_bytes: 779154
+model_uuid: m-d9a75ef5b8fa4d229cecd69b20bebf74
+prompts: null
+run_id: 72232fb35bfd449dadf047f639bebff9
+signature:
+  inputs: '[{"name": "signals", "type": "tensor", "tensor-spec": {"dtype": "float32",
+    "shape": [-1, 12, 1000]}}, {"name": "metadata", "type": "tensor", "tensor-spec":
+    {"dtype": "float32", "shape": [-1, 2]}}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1,
+    5]}}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2026-11-01 04:06:43.900786'
