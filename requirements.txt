@@ -1,0 +1,16 @@
+pip==26.1.2
+setuptools==78.1.0
+wheel==0.47.0
+mlflow==3.17.2
+pyyaml==6.0.3
+torch==2.13.0
+torchmetrics==1.9.0
+torchinfo==1.8.0
+numpy==2.3.5
+pandas==3.0.5
+pyarrow==24.0.0
+matplotlib==3.11.1
+seaborn==0.13.2
+scipy==1.18.1
+wfdb==4.3.1
+ipykernel==7.3.0
